@@ -80,7 +80,7 @@ function sumZero(arr) {
     }
   }
 }
-// console.log(sumZero([-4, -2, -1, 0, 1, 2, 3]));
+// console.log(sumZero([-4, -2, -1, 0, 1, 2, 3]));.
 
 function sumPairZero(arr) {
   let left = 0;
